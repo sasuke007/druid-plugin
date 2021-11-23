@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.sasuke007.druidplugin
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
